@@ -14,4 +14,4 @@ HI my name is **Carter Kim** and I'm curretnly majoring in information sciences 
 
 ## Image of Favorite Car
 ![](https://www.carscoops.com/wp-content/uploads/2019/05/8b0765b2-rwb-porsche-911-2.jpg)
-**RWB porsche 911**
+**RWB porsche 911 in blue**
