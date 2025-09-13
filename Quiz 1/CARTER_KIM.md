@@ -3,9 +3,10 @@
 ## Who Am I
 HI my name is **Carter Kim** and I'm curretnly majoring in information sciences with minor in political science
 
-## List of my hobbies
+## List of my favorite things
 
-| Header 1 | Header 2 | Header 3 |
+| Sports | Movies | Shows |
 |----------|----------|----------|
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+| Soccer | Toy story | Better Call Saul |
+| Golf | Cars | Regular show |
+| Tennis | Scarface | Breaking Bad |
