@@ -12,9 +12,9 @@ Natasha Nangia
 Ashka Rastogi    
 Jinu Jung      
 Ulysses Martinez Fermin     
-Xinxuan Shen    
+Xinxuan Shen
+Carter Kim
 Ulysses Martinez Fermin    
 Alex Soja    
-Carter Kim
 Sammie Brish
 Carter Kim
