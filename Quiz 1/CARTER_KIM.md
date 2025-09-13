@@ -12,4 +12,4 @@ HI my name is **Carter Kim** and I'm curretnly majoring in information sciences 
 | Tennis | Scarface | Breaking Bad |
 
 
-<img src="[URL_of_your_image](https://www.carscoops.com/wp-content/uploads/2019/05/8b0765b2-rwb-porsche-911-2.jpg)" alt="description_of_image">
+![](https://www.carscoops.com/wp-content/uploads/2019/05/8b0765b2-rwb-porsche-911-2.jpg)
