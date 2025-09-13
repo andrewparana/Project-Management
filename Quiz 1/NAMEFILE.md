@@ -13,8 +13,8 @@ Ashka Rastogi
 Jinu Jung      
 Ulysses Martinez Fermin     
 Xinxuan Shen
-Carter Kim
 Ulysses Martinez Fermin    
 Alex Soja    
 Sammie Brish
+
 Carter Kim
