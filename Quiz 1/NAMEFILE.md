@@ -1,6 +1,5 @@
 ## Write your name on its own line:   
-Bradly Alicea    
-Carter Kim
+Bradly Alicea
 Jaypal Patel    
 Irith Chaturvedi   
 Rachel Li    
@@ -17,3 +16,5 @@ Xinxuan Shen
 Ulysses Martinez Fermin    
 Alex Soja    
 Sammie Brish
+
+Carter Kim
