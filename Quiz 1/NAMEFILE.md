@@ -15,6 +15,6 @@ Ulysses Martinez Fermin
 Xinxuan Shen    
 Ulysses Martinez Fermin    
 Alex Soja    
+Carter Kim
 Sammie Brish
-
 Carter Kim
