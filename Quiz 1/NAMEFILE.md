@@ -12,10 +12,10 @@ Natasha Nangia
 Ashka Rastogi    
 Jinu Jung      
 Ulysses Martinez Fermin     
-Xinxuan Shen
+Xinxuan Shen    
 Ulysses Martinez Fermin    
 Alex Soja    
-Sammie Brish
-Carter Kim
-Gabriel Ruiz    
-Sophie Chiewtrakoon  
+Sammie Brish    
+Carter Kim   
+Gabriel Ruiz     
+Sophie Chiewtrakoon    
