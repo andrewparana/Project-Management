@@ -12,6 +12,6 @@ I am an **identical twin**
 
 - Here is a photo of their logo:
 
-  <img src="https://www.clker.com/cliparts/7/5/8/b/1513716951184487139bears-football-logo.jpg" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chicago_Bears_logo.svg/640px-Chicago_Bears_logo.svg.png" width="150">
 
   
