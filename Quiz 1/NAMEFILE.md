@@ -1,22 +1,18 @@
 ## Write your name on its own line:   
-Bradly Alicea
+Bradly Alicea   
 Jaypal Patel    
-Irith Chaturvedi   
+Irith Chaturvedi      
 Rachel Li    
 Keon Kim    
-Shenhua Zhang   
-Bradly Alicea         
+Shenhua Zhang      
 Jinu Jung    
-Ulysses Martinez Fermin
+Ulysses Martinez Fermin   
 Natasha Nangia    
-Ashka Rastogi    
-Jinu Jung      
-Ulysses Martinez Fermin     
-Xinxuan Shen    
-Ulysses Martinez Fermin    
+Ashka Rastogi        
+Xinxuan Shen        
 Alex Soja    
 Sammie Brish    
 Carter Kim   
 Gabriel Ruiz     
-Sophie Chiewtrakoon    
-JJ Park
+Sophie Chiewtrakoon       
+JJ Park   
