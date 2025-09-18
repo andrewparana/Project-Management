@@ -16,3 +16,4 @@ Carter Kim
 Gabriel Ruiz     
 Sophie Chiewtrakoon       
 JJ Park   
+Connor Slattery
