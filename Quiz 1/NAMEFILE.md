@@ -17,5 +17,4 @@ Gabriel Ruiz
 Sophie Chiewtrakoon       
 JJ Park   
 Connor Slattery
-
 Satyam Malhotra
