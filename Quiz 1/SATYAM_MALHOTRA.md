@@ -10,5 +10,4 @@ Hello My name is Satyam Malhotra and I am a Senior majoring in Information Scien
 | Volleyball | Coco | New Balance |
 
 ## Picture
-![](<img width="736" height="718" alt="image" src="https://github.com/user-attachments/assets/6e49e0c1-e1cb-47d0-8446-f01243f36db0" />
-)
+![](https://i.pinimg.com/1200x/76/46/a9/7646a94792eeb2b072335e16dd7c9f11.jpg)
