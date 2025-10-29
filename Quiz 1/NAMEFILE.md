@@ -16,6 +16,6 @@ Carter Kim
 Gabriel Ruiz     
 Sophie Chiewtrakoon       
 JJ Park   
-Connor Slattery
-Isaac Chin
-Satyam Malhotra
+Connor Slattery   
+Isaac Chin   
+Satyam Malhotra   
