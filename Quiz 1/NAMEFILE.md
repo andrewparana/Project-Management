@@ -19,3 +19,4 @@ JJ Park
 Connor Slattery   
 Isaac Chin   
 Satyam Malhotra   
+Alina Tai
