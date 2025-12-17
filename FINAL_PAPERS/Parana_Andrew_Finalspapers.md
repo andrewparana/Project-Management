@@ -11,7 +11,6 @@ As gamers myself I tend to grow frustrated with these game developers releasing 
 
 #### Introduction
 My emphasis throughout the course on developing games that create a fully immersive experience, that use community feedback as part of the design process, and that create lasting relationships with gamers, as a developer myself has made me highly disappointed when I have seen developers release games without having incorporated these elements in their development process. This disconnect also creates a large amount of distrust towards the developer. This project presents a method for creating a fully developed "game environment" that incorporates community feedback and structured data collections, analysis, and continuous improvements to better support the gaming community.
-[Comment_3]: <> ()
 
 #### Purpose 
 
